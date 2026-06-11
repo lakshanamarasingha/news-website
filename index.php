@@ -39,6 +39,7 @@ $result = mysqli_query($conn, "SELECT * FROM articles ORDER BY created_at DESC")
       <a href="category.php?cat=Opinion">Opinion</a>
       <a href="category.php?cat=Local">Local</a>
       <a href="about.php">About Us</a>
+      <a href="contact.php">Contact</a>
       <a href="admin/login.php" class="admin-link">Admin</a>
     </div>
   </div>

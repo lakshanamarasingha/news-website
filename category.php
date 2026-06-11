@@ -52,6 +52,7 @@ $cats = ['Sports','Technology','Politics','Health','Business','Top Stories','Wor
       <a href="category.php?cat=Opinion" class="<?= $category==='Opinion' ? 'active' : '' ?>">Opinion</a>
       <a href="category.php?cat=Local" class="<?= $category==='Local' ? 'active' : '' ?>">Local</a>
       <a href="about.php">About Us</a>
+      <a href="contact.php">Contact</a>
       <a href="admin/login.php" class="admin-link">Admin</a>
     </div>
   </div>
